@@ -221,3 +221,8 @@ __marimo__/
 .claudeignore
 .codex/
 .codexignore
+
+# Local sensitive configs
+.pi/
+.idea/
+.env
