@@ -17,6 +17,7 @@ dependencies = [
     "numpy",
     "pyarrow",
     "scipy",
+    "sentence-transformers>=6.1.0",
     "tqdm",
 ]
 
