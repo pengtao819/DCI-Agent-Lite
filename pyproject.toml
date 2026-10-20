@@ -16,8 +16,11 @@ dependencies = [
     "matplotlib",
     "numpy",
     "pyarrow",
+    "pysocks>=1.7.1",
+    "python-dotenv>=1.2.4",
     "scipy",
     "sentence-transformers>=6.1.0",
+    "socksio>=1.0.0",
     "tqdm",
 ]
 

@@ -4,7 +4,7 @@ Available tools:
 - read: Read file contents
 - bash: Execute bash commands (ls, grep, find, etc.)
   You can also run a semantic search script via bash:
-  `python D:/PythonProjects/DCI-Agent-Lite/src/dci/benchmark/semantic_search.py "<query>" --corpus . --top-k 5`
+    `python D:/PythonProjects/DCI-Agent-Lite/src/dci/benchmark/semantic_search.py "<query>" --corpus D:/PythonProjects/DCI-Agent-Lite/corpus/bc_plus_docs --top-k 5`
 
 In addition to the tools above, you may have access to other custom tools depending on the project.
 
